@@ -1,2 +1,10 @@
-# bigdata-etl-sncf-gcp
-Projet BigData- ETL SNCF- Groupe M2 CS- 2026
+bigdata-etl-sncf-gcp/
+├── notebooks/
+├── src/
+├── report/                # compte rendu PDF
+├── requirements.txt
+├── README.md
+├── DESCRIPTIF.md          # descriptif projet (simple, lisible)
+├── .gitignore
+└── (optionnel) .env.example
+
