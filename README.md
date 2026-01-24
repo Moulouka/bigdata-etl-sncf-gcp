@@ -4,7 +4,7 @@ bigdata-etl-sncf-gcp/
 ├── report/                # compte rendu PDF
 ├── requirements.txt
 ├── README.md
-├── DESCRIPTIF.md          # descriptif projet (simple, lisible)
+├── DESCRIPTIF.md          # descriptif projet
 ├── .gitignore
-└── (optionnel) .env.example
+└── .env, .json, etc..
 
